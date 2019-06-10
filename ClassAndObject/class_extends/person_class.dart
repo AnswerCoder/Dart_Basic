@@ -6,7 +6,7 @@
 class Person{
   String name;
   int age;
-  String birthday;
+  //String _birthday;
 
   bool get isAdult => age > 18;
 
